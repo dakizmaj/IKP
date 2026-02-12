@@ -1,0 +1,12 @@
+﻿  main.c
+C:\Users\DARKO\Desktop\IKP\Projekat\Aggregator\main.c(94,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+      C:\Users\DARKO\Desktop\IKP\Projekat\Aggregator\main.c(94,12):
+      consider using '%llu' in the format string
+      C:\Users\DARKO\Desktop\IKP\Projekat\Aggregator\main.c(94,12):
+      consider using '%Iu' in the format string
+      C:\Users\DARKO\Desktop\IKP\Projekat\Aggregator\main.c(94,12):
+      consider using '%I64u' in the format string
+  
+C:\Users\DARKO\Desktop\IKP\Projekat\Aggregator\main.c(61,17): warning C4101: 'j': unreferenced local variable
+C:\Users\DARKO\Desktop\IKP\Projekat\Aggregator\main.c(282,17): warning C4101: 'j': unreferenced local variable
+  Aggregator.vcxproj -> C:\Users\DARKO\Desktop\IKP\Projekat\EnergySystem\x64\Debug\Aggregator.exe
